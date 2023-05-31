@@ -23,11 +23,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ---
+
 ## Informações
 
 - Foi meu primeiro projeto utilizando o Dark e Light Mode
-- Aprendi a fazer adicionar o projeto no git
+- Aprendi a adicionar o projeto no git
 - Aprendi a fazer commit
-
 
 Feito por Renan Magalhães
