@@ -30,4 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Aprendi a adicionar o projeto no git
 - Aprendi a fazer commit
 
+---
+
 Feito por Renan Magalhães
