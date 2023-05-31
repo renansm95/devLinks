@@ -33,6 +33,7 @@ body {
 
   /*background: color image repeat position /size ->pro size é necessário colocar / antes*/
   background: var(--bg-url) no-repeat top center / cover;
+  height: 100vh;
 }
 
 body * {
