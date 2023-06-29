@@ -3,6 +3,7 @@
 <p align="center">
 O DevLinks é um agregador de links para usar o cartão de visitas online.
 </p>
+<p align="center">Link do projeto: https://renansm95.github.io/devLinks/</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
